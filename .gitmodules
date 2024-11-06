@@ -1,0 +1,12 @@
+[submodule "UsedBookOnlineMarketplace"]
+	path = UsedBookOnlineMarketplace
+	url = https://github.com/Nozomi9967/UsedBookOnlineMarketplace.git
+[submodule "aliyun-oss-spring-boot"]
+	path = aliyun-oss-spring-boot
+	url = https://github.com/Nozomi9967/aliyun-oss-spring-boot.git
+[submodule "ubom-utils"]
+	path = ubom-utils
+	url = https://github.com/Nozomi9967/ubom-utils.git
+[submodule "ubom-pojo"]
+	path = ubom-pojo
+	url = https://github.com/Nozomi9967/ubom-pojo.git
